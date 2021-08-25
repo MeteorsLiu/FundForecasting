@@ -11,6 +11,12 @@
 ## Environment
 
 Platform: Windows 10 X64 Professional
+
+
 CPU: i7 6700
+
+
 GPU: Nvidia GeForce GTX 1060
+
+
 Python Version: 3.9
