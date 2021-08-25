@@ -20,3 +20,15 @@ GPU: Nvidia GeForce GTX 1060
 
 
 Python Version: 3.9
+
+
+## Process
+
+***1. Crawler for grabbing daily fund data from Eastmoney (Still working on it)***
+
+Crawler Framework: Pure urlib requests + Selenium Chrome
+
+
+
+***2.Input the data for training***
+
