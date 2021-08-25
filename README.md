@@ -13,6 +13,7 @@
 Platform: Windows 10 X64 Professional
 
 
+
 CPU: i7 6700
 
 
@@ -24,11 +25,13 @@ Python Version: 3.9
 
 ## Process
 
-***1. Crawler for grabbing daily fund data from Eastmoney (Still working on it)***
+**1. Crawler for grabbing daily fund data from Eastmoney (Still working on it)**
 
 Crawler Framework: Pure urlib requests + Selenium Chrome
 
 
 
-***2.Input the data for training***
+**2.Input the data for training**
+
+
 
