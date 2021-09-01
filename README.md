@@ -33,5 +33,9 @@ Crawler Framework: Pure urlib requests + Selenium Chrome
 
 **2.Input the data for training**
 
+## Problems faced during the process
+
+1.Pytorch Forecasting cannot build the DeepAR Model using the real fund data(But the fake generated data work well,WTF???)
+
 
 
